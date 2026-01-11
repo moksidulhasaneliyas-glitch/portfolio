@@ -120,11 +120,6 @@ footer {
     and aim to pursue higher studies in IT-related subjects. I am passionate about learning, creativity,
     and self-improvement.
   </p>
-</div>
-
-<footer>
-  © 2026 Moksidul Hasan Eliyas | Personal Portfolio
-</footer>
 
   </div>
 </body>
